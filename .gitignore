@@ -205,3 +205,20 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ──────── REGLAS CRÍTICAS DE ARRECIFE DIGITAL (AÑADIDO) ────────
+
+# Pesos de Modelos Entrenados (¡CRUCIAL IGNORAR!)
+# Los archivos de PyTorch y Keras son demasiado grandes.
+*.pt
+*.pth
+*.h5
+
+# Bases de Datos (Solo compartimos el esquema, no los datos)
+# La plantilla de GitHub no cubre todos estos tipos.
+*.sqlite
+*.db
+*.db3
+
+# Carpeta genérica para data sets/outputs grandes
+/data/
