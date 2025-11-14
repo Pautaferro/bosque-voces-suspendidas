@@ -1,4 +1,5 @@
-# bosque-voces-suspendidas
+# ⚙️ BOSQUE DE LAS VOCES SUSPENDIDAS: CÓDIGO ESTRUCTURAL (GPL v3)
+
 ## Descripción y Propósito
 
 Este repositorio contiene el **código fuente científico** y los esquemas de bases de datos que subyacen a la evidencia fenomenológica de **El Arrecife Digital**.
